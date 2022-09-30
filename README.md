@@ -1,8 +1,11 @@
 ## Estrutura Sequencial 1
 
 Programação de Soluções Computacionais
+
 Vinícius Gustavo Tachetti Escudeiro
+
 RA: 822126545
+
 USJT
 
 ## Enunciado:
